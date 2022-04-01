@@ -29,23 +29,19 @@ https://www.loom.com/share/411f5fd13f594be9bcbc1ab2c2830285
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
-
+w3Schools: generic javascript, html, css syntax
+StackOverflow
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
-
+if had problems with last of this game which was about the conditional statement eventhough i am very much familiar with conditional statement but still i had to spent more time figuring out the lose behind the ussr gusing.In order tto finish it i have more time spending if and else statements logic.
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+Before this making this game i never thought that i would be able to make this simple game but after finishing this game i am more interested on Learning about software Development and Games because by finishing this projects  i have enjoyed eventhough it was challenging but iy made me feel good 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
-
+I would like to add some additional features to this game to make more interesting and enjoyable to the users.I will try to add few more buttons and colors at the same would like to change shape of the four buttons.i would like to show score and add few more players to the game.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-
+[My 5-minute Interview Recording]
+https://www.loom.com/share/28ea7715d0184c809df34d49b9ebe772
 
 ## License
 
